@@ -1,0 +1,289 @@
+GDG DevFest Ukraine
+Heapcon 2018
+HackBay
+Samsung Create
+Chrome Dev Summit
+Samsung Developer Conference
+WebXR London
+Codemotion Rome
+Codemotion Amsterdam
+London Progressive Web Apps
+RenderConf
+Mozilla Festival
+Oxford's VR Crowd
+JS Monthly
+State of the Browser 6
+London JS
+Coldfront
+FullStack 2018
+Web Community Leads Summit
+Nuremberg Web Week
+JS Oxford
+WebVR London
+IEEE VR
+JavaScript London
+Codebar Monthly
+Over The Air
+London Web Performance
+Augmenting Reality
+Bytes Conf
+FullStack Bytes
+London AJAX
+HalfStack
+Front Endgineers
+Front End London
+Epic FEL
+London React
+Ember London
+London Oculus Rift / VR Developer Meetup
+EdTech Developers Meetup
+HTML5 CodeShow
+London Web
+Droidcon Amsterdam
+IoT London
+Digital Tech Summit
+Github Universe
+JS Interactive
+Hackference
+CodeN
+UXDX
+Hacktoberfest
+W3C Permissions Workshop
+Digility
+IT Arena
+TechFest Romania
+FullStack Fest
+FrontEnd North East
+EMF Camp
+W3C TPAC
+Brazil JS
+IEEE 5G Forum
+London Django Meetup
+Web Components London
+Global WebXR Week
+Developer Developer Developer
+World VR Forum
+MDN Web Docs Meetup
+Amsterdam JS
+Delta V
+FrontTrends
+VR World London
+WeAreDevelopers
+Mozilla Global Sprint
+W3C Web5G Workshop
+Immersive Web and Film Workshop
+Samsung Create
+CodeFest Siberia
+FrontEnder
+Upfront Conf
+MDN Data Hack
+AnvilHack
+London Educational Games Meetup
+Manchester FRED
+DADLIHack Antigua
+MDN Product Advisory Board Meeting
+W3C WebVR Authoring Workshop
+DevRelCon
+Gender Minorities in the Cloud Meetup
+Web Standards Workshop
+London Web Standards
+FFConf
+View Source London
+View Source Berlin
+Queer Code London
+TECH(K)NOW
+San Francisco Women in VR
+Fusion Meetup
+Innovate UK Hackathon
+Ada's List Conf
+Ladies of Code
+Rainbows and Lightning
+HackTheMidlands
+MLH Hackcon
+ST Hackathon
+Copen X
+Khronos Group Meetup
+Dev Rel Summit
+Nine Worlds
+VRUK
+Look Forward Fashion Tech Festival
+EnterJS
+SADM 2017 Symposium
+CSS Day Amsterdam
+DotJS
+DotCSS
+DevTalks Romania
+JS Day Italy
+VRX Europe
+GSMA Girls in ICT
+VR World
+Bulgaria Web Summit
+Madrid JS
+Web Games Day
+Mobile World Congress
+EVO VR
+VRDC
+W3C VR Workshop
+Fronteers Meetup
+Mastodon Meetup
+Front End North
+Experience Code
+JFokus
+SmashingConf London
+Front Fest
+FITC Amsterdam
+JSConf Iceland
+ScaleConf
+JavaScript Days
+CityJS Conf
+DevConf SA
+An Event Apart
+Forward JS
+International JavaScript Conference
+JSHeroes
+JSUnconf
+The Web Conference
+Google I/O
+Uphill Conf
+Generate New York
+Techorama
+J On The Beach
+You Gotta Love Frontend
+Front End United
+Web Rebels
+Pixel Pioneers
+Fluent Conf
+NDC Oslo
+Go To Conference
+BuzzJS
+EnterJS
+Web 3D Consortium
+DinosaurJS
+CommCon
+Scotland JS
+JavaScript in South Africa
+CSSConf
+The Conference
+Nordic.js
+Refresh
+Lagos Startup Week
+Caribbean Developers Conf
+JS Day Canarias
+Cascadia JS
+FrontStack
+Script Conf
+JS Remote Conf
+Voxxed Days
+MobCon Europe
+JavaScript Days 2018
+Awwwards London
+Design It, Build It
+AlterConf
+UX In The City
+Offline First Camp
+MobileCamp 2018
+United Dev Conf 2018
+Riga Dev Days
+DevDays Lithuania
+JS Poland
+GOTO Amsterdam
+EnterJS
+Breaking Borders
+PolyConf
+Take It Offline
+FrontEnd Conf Zurich
+JS Conf Iceland
+Reasons To
+JS Conf Budapest
+SmartWeb
+Mobile Development Summit
+Mirror Conf
+Smashing Conf Barcelona
+DevFest Nantes
+Droidcon UK
+SignalConf
+Bristol JS
+JS and NodeJS Cambridge
+GDG Dev Group Reading
+Hybrid Conf
+Smashing Conf Freiburg
+From The Front
+Node.js Interactive
+Paris Web
+MobiConf
+ReactJSDay
+OSCON
+NodeConf EU
+Frontier Conf
+DevFest Berlin
+Google Developer Group Reading
+London Quantified Self Meetup
+Internet of Things London
+London Java Community
+London JavaScript Community
+Futurice London
+London Unity Usergroup
+Internet of Things Thames Valley
+London Dev Community
+London Futurists
+Tech Speakers London
+React London User Group
+EdMix
+Hardware Pioneers London
+Data Science London
+GeekPub London
+Hacks/Hackers London
+London Virtual Reality Developer Meetup
+London Arduino Meetup
+Hacker News London
+DevTank
+London API
+London D3.js Meetup
+Heads Up London
+Mozilla IOT
+VRLO Virtual Reality London
+London Machine Learning Meetup
+Digital Innovation
+London's Artificial Intelligence Futurists
+NodeBots of London
+Reactive London
+Creative Technology London
+Elm London Meetup
+Innovation London
+Functional Programming for the Web Meetup
+London Mobile Web Meetup Group
+London Virtual Reality Meetup
+Mobile Web
+Unfold UK
+JS on Devices Meetup
+London AI
+Lead Developer Meetup
+Web Audio London
+West London JavaScript Meetup
+Design Thinking Oxford
+London Game Developer Lunch
+React Advanced London
+London Security Community
+GDG Cloud London
+AI JavaScript London
+Vue.js London
+London Artificial Intelligence & Deep Learning
+Data Science for Internet of Things Meetup
+Scala In The City
+London Accessibility Meetup
+London AI Tech Talks
+UX Crunch
+Data Science Festival
+London Lean Coffee
+Flutter LDN
+Machine Intelligence Garage
+Digital Leadership Meetup
+React.JS Girls London
+Founders and Coders
+Serverless London
+Codecademy London
+London New Tech
+Data-Driven LDN Meetup
+freeCodeCamp London
+DevOps Underground
+

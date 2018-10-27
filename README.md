@@ -14,7 +14,27 @@ python3 run.py
 
 Here are some of the new event names that it's generated 😆
 
-[coming soon...]
+```
+Dev Dev London
+Mobile Workshop
+JS Face
+Futurity Web React Air Community
+The Festival London
+London Web Code
+WebConf
+London United Meetup Works
+Bristol North
+Web Science
+Front Source
+Mars Up London
+JS JS Barred Conf
+View JS
+Data Science of the Conf
+Hack Developer Lunch
+JS.js Iceland
+State of the Berlin
+London New Tea
+```
 
 ## Credits
 
